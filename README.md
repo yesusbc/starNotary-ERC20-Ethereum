@@ -49,7 +49,6 @@ A Star Notary Descentralized App, with ERC20 Tokens
    npm install
    ```
 3. Create account on Metamask, and connect to local network.
-4. Download latest version of truffle, and utilize the "truffle unbox webpack" command.
 
 
 <!-- USAGE EXAMPLES -->
